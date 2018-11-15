@@ -1,6 +1,10 @@
 {
 "version": 3,
+<<<<<<< HEAD
 "mappings": "AAAA,EAAG;EAEK,SAAI,EAAE,IAAI;EACV,WAAM,EAAE,IAAI;;AAIpB,IAAK;EACD,gBAAgB,EAAE,UAAU",
+=======
+"mappings": "AAAA,EAAG;EAEK,SAAI,EAAE,IAAI;EACV,WAAM,EAAE,IAAI;;AAIpB,IAAK;EACD,gBAAgB,EAAE,UAAU;;AAGhC,CAAE;EACE,SAAS,EAAE,GAAG",
+>>>>>>> task-4-alfa
 "sources": ["style.scss"],
 "names": [],
 "file": "style.css"
